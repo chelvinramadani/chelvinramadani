@@ -1,0 +1,3 @@
+- Mahasiswa semester 2 Informatika UPN Veteran Jawa Timur
+- Railfans & fotografi Enthusiast
+- Saya tertarik dengan UI UX & Frontend
