@@ -1,6 +1,6 @@
 # Halo! 👋 Saya Chelvin Ramadani Yulianto
 
-🎓 **Mahasiswa Informatika Semester 5**  
+🎓 **Mahasiswa Informatika Semester 6**  
 🏫 **UPN Veteran Jawa Timur**
 
 Saya memiliki minat besar di bidang **Pengembangan Web**, khususnya **Front-End Development** dan **UI/UX Design**.  
@@ -27,9 +27,9 @@ Saya senang membangun antarmuka yang **modern, responsif, dan nyaman digunakan**
 ---
 
 ## 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact)
 
 ---
 
