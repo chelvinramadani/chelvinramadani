@@ -41,7 +41,7 @@ Saya menikmati proses membangun antarmuka yang **modern, responsif, dan mudah di
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact&theme=radical"  height="160"/>
 </p>
 
 ---
