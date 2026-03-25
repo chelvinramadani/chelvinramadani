@@ -38,8 +38,16 @@ Saya menikmati proses membangun antarmuka yang **modern, responsif, dan mudah di
 ---
 
 ## 📊 GitHub Statistik
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&theme=radical) 
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&count_private=true&theme=radical" height="160"/>
+</p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact&theme=radical"/>
+</p>
 
 ---
 
