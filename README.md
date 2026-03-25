@@ -38,15 +38,8 @@ Saya menikmati proses membangun antarmuka yang **modern, responsif, dan mudah di
 ---
 
 ## 📊 GitHub Statistik
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chelvinramadani&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&count_private=true&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact&theme=radical"/>
-</p>
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=chelvinramadani&show_icons=true&theme=radical) 
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=chelvinramadani&layout=compact&theme=radical)
 
 ---
 
